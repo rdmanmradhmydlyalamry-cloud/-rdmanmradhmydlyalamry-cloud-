@@ -3,18 +3,18 @@
 </p>
 
 <h1 align="center">Hey 👋, I'm Radman Al-Amri</h1>
-<h3 align="center">🚀 Web Developer | Front-End & Back-End Enthusiast | Building Digital Experiences</h3>
+<h3 align="center">🚀 Web Developer | PHP & Node.js Enthusiast</h3>
 
 ---
 
 ## 🧠 About Me
 
-- 🌐 Passionate **Web Developer** dedicated to building responsive and user-friendly web applications.
-- ⚡ Strong in **Front-End & Back-End Technologies** and problem-solving.
-- 🏗️ Experience in creating **scalable, high-performance websites**.
-- 🎯 Focused on writing clean code and delivering exceptional UI/UX.
+- 🌐 Passionate **Web Developer** dedicated to building responsive and dynamic web applications.
+- ⚡ Strong in **HTML, CSS, JavaScript, PHP, and Node.js**.
+- 🏗️ Experience in creating **interactive user interfaces and robust backend systems**.
+- 🎯 Focused on writing clean code and delivering exceptional web experiences.
 
-🚀 **Goal:** To engineer **dynamic, interactive web solutions** and grow continuously in the tech industry.
+🚀 **Goal:** To engineer **scalable, high-performance web solutions** and grow continuously in the tech industry.
 
 ---
 
@@ -37,7 +37,8 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,tailwind,bootstrap" />
+  <!-- تم تحديث الأيقونات لتشمل HTML, CSS, JS, PHP, Node.js وقواعد البيانات MySQL -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,git,github" />
 </p>
 
 ---
@@ -45,16 +46,16 @@
 ## 🚀 Featured Projects
 
 ### 🛒 E-Commerce Web Application
-- 🛍️ Built a full-stack platform with a shopping cart, secure authentication, and payment integration.
-- ⚙️ Developed using **React, Node.js, Express, and MongoDB**.
+- 🛍️ Built a dynamic platform with a shopping cart, secure authentication, and product management.
+- ⚙️ Developed using **PHP, MySQL, HTML, CSS, and JavaScript**.
 
-### 🌐 Personal Portfolio Website
+### 🌐 Interactive Dashboard System
+- 📊 Created a real-time dashboard for managing data and tracking performance.
+- 🚀 Built using **Node.js, Express, and JavaScript**.
+
+### 📝 Personal Portfolio Website
 - 🎨 Designed a responsive, modern portfolio to showcase my projects and skills.
-- 🚀 Built using **HTML, CSS, JavaScript, and TailwindCSS**.
-
-### 📝 Task Management System
-- 📊 Created an interactive dashboard for managing daily tasks and tracking productivity.
-- 🔐 Implemented user authentication and real-time database updates.
+- ⚙️ Built using **HTML, CSS, and JavaScript**.
 
 *(Note: Update the project descriptions above based on your actual work!)*
 
@@ -83,9 +84,9 @@
 
 ## 📚 Currently Learning
 
-- ⚙️ Advanced **Modern JavaScript & Full-Stack Frameworks**.
-- ☁️ Exploring **Web Security & Cloud Deployment**.
-- 🎨 Enhancing my skills in **UI/UX Design principles**.
+- ⚙️ Advanced **Backend Architecture with Node.js & PHP**.
+- ☁️ Exploring **Database Optimization & API Integration**.
+- 🎨 Enhancing my skills in **Modern Front-End Design**.
 
 ---
 
