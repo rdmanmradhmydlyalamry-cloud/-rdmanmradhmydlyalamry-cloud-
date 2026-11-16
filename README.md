@@ -12,9 +12,8 @@
 - 🌐 Passionate **Web Developer** dedicated to building responsive and dynamic web applications.
 - ⚡ Strong in **HTML, CSS, JavaScript, PHP, and Node.js**.
 - 🏗️ Experience in creating **interactive user interfaces and robust backend systems**.
+- 🚀 **GitHub Journey:** I officially started uploading and sharing my projects here on **November 16, 2026**.
 - 🎯 Focused on writing clean code and delivering exceptional web experiences.
-
-🚀 **Goal:** To engineer **scalable, high-performance web solutions** and grow continuously in the tech industry.
 
 ---
 
@@ -22,13 +21,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Radman%20Al--Amri-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>&nbsp;
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>&nbsp;
   <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>&nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Radman-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -37,7 +45,6 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <!-- تم تحديث الأيقونات لتشمل HTML, CSS, JS, PHP, Node.js وقواعد البيانات MySQL -->
   <img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs,mysql,git,github" />
 </p>
 
