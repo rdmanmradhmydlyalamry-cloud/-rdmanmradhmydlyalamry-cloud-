@@ -46,12 +46,3 @@ Passionate Web Developer dedicated to building responsive, dynamic web applicati
 ### Languages
 
 <img src="https://img.shields.io/badge/Arabic-Native-brightgreen?style=flat-square" /> <img src="https://img.shields.io/badge/English-Intermediate-blue?style=flat-square" />
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdmanmradhmydlyalamry-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdmanmradhmydlyalamry-cloud&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdmanmradhmydlyalamry-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
