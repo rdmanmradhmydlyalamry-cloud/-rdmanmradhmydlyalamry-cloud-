@@ -49,8 +49,9 @@ Passionate Web Developer dedicated to building responsive, dynamic web applicati
 
 ### GitHub Stats
 
-<!-- تم تعديل اسم المستخدم هنا لتعمل الإحصائيات تلقائياً -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdmanmradhmydlyalamry-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdmanmradhmydlyalamry-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rdmanmradhmydlyalamry-cloud&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdmanmradhmydlyalamry-cloud&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdmanmradhmydlyalamry-cloud&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
